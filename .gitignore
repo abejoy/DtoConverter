@@ -1,0 +1,15 @@
+*.class
+
+*.log
+
+*.ctxt
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+
+*.idea/
+
+*.iml
